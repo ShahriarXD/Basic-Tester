@@ -35,18 +35,24 @@ body {
 .h {
   grid-area: c;
   display: flex;
-  justify-content: right;
-  align-items: flex-end;
+  justify-content: center;
+  align-items: center;
 }
 .b1 {
   grid-area: x;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .b2 {
   grid-area: g;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .f {
   grid-area: f;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
